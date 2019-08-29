@@ -1,0 +1,1 @@
+Strona zbudowana na podstawie kursu Maćka Korsana: "WTF - co ten frontend".
