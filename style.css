@@ -1,4 +1,35 @@
-.main{
-    background: yellowgreen;
-    color: blue;
+body {
+	background: lightcyan;
+}
+
+.main_1 {
+	background: #41EAD4;
+	color: blue;
+}
+.main_2 {
+	background: #41ea58;
+	color: blue;
+}
+
+h2 {
+	color: #011627;
+}
+
+h3 {
+	color: #F71735;
+}
+
+footer{
+	font-size: 32px;
+	font-weight: bold;
+}
+.emptyMain{
+	font-size: 64px;
+}
+
+.menuId{
+	font-size: 24px;
+	font-weight: bold;
+	border-style: dotted solid;
+	border-width: 3px;
 }
