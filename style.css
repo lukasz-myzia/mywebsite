@@ -1,35 +1,95 @@
 body {
 	background: lightcyan;
+	
 }
 
 .main_1 {
 	background: #41EAD4;
 	color: blue;
+	max-width: 700px;
+	width: 100%;
+	margin: auto;
 }
+
 .main_2 {
-	background: #41ea58;
+	background: #82E8E3;
 	color: blue;
 }
 
 h2 {
 	color: #011627;
+	padding: 0 16px;
+	margin-top: 16px;
 }
 
 h3 {
 	color: #F71735;
+	padding: 0 24px;
 }
 
-footer{
+.headerMenu {
+	border-bottom: 2px dotted red;
+	padding: 0 0 20px 0;
+}
+
+.headerH2 {
+	width: 100%;
+	max-width: 850px;
+	margin: 20px auto;
+}
+
+.png{
+	width: 100%;
+	
+	margin: 20px auto;
+}
+main {
+	width: 100%;
+	max-width: 700px;
+	margin: 20px auto;
+}
+
+footer {
 	font-size: 32px;
 	font-weight: bold;
+	border: 3px solid #6EB257;
+	padding: 30px;
+	border-radius: 30px;
+	background: #E4F1E0;
+	max-width: 950px;
+	margin:0 auto;
 }
-.emptyMain{
+
+.emptyMain {
 	font-size: 64px;
 }
 
-.menuId{
+.menuId {
 	font-size: 24px;
 	font-weight: bold;
 	border-style: dotted solid;
-	border-width: 3px;
+	border-width: 1px;
+	padding: 25px 25px 25px 25px;
+}
+
+p {
+	text-align: justify;
+	padding: 0 32px 0 32px;
+}
+
+#twoOne {
+	font-weight: bold;
+}
+
+.twoOne_pararaph {
+	height: 100px;
+	overflow: scroll;
+}
+
+.divTest2{
+	background: #c6d6c1;
+	width: 200px;
+	margin: 0 auto;
+	padding: 0 0 3px 7px;
+	border-radius: 25px;
 }
